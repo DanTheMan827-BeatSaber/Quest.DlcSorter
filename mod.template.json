@@ -7,7 +7,7 @@
   "author": "DanTheMan827",
   "version": "${version}",
   "packageId": "com.beatgames.beatsaber",
-  "packageVersion": "1.40.5_5928",
+  "packageVersion": "1.40.6_6407",
   "description": "Sorts the DLC packs alphabetically.",
   "dependencies": [],
   "modFiles": [
